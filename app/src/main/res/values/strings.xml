@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TwoActivitiesOneLauncher</string>
+    <string name="mainActivity">mainActivity</string>
+    <string name="secondActivity">secondActivity</string>
+</resources>
